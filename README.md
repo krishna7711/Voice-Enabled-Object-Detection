@@ -1,4 +1,5 @@
-#Voice-Enabled Object Detection for the Visually Impaired using CNN
+#Voice-Enabled Object Detection 
+for the Visually Impaired using CNN
 Overview
 This project implements a voice-assisted object detection system designed to aid visually impaired individuals by identifying objects in real-time using a camera and conveying the results through audio output. The system utilizes a Convolutional Neural Network (CNN) and deep learning techniques integrated with voice-based technology to provide an accessible and intelligent solution for navigation and object recognition.
 
