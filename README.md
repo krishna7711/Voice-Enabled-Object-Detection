@@ -41,7 +41,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/voice-object-detection.git
+git clone https://github.com/krishna7711/Voice-Enabled-Object-Detection.git
 cd voice-object-detection
 Install dependencies:
 
